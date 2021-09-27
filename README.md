@@ -2,6 +2,5 @@
 
 This is a test of the GitHub pages feature.
 
-Added some markdown from VS Code.
-
-Added some more.
+## Office View
+![The view from my office](./images/photo_2021-09-13_17-01-05.jpg)
